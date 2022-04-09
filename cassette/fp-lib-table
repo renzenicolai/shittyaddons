@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/sao/badgelife_sao_v169bis.pretty")(options "")(descr ""))
   (lib (name "tape")(type "KiCad")(uri "${KIPRJMOD}/design/tape.pretty")(options "")(descr ""))
+  (lib (name "images")(type "KiCad")(uri "/home/renze/Documents/Badge.team/Cloud/logo.pretty/.svg2shenzhen-cache/images")(options "")(descr ""))
+  (lib (name "electronics3")(type "KiCad")(uri "/home/renze/Documents/Badge.team/Cloud/logo.pretty/.svg2shenzhen-cache/electronics3.pretty")(options "")(descr ""))
 )
