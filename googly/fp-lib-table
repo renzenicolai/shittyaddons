@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/sao/badgelife_sao_v169bis.pretty")(options "")(descr ""))
+)
