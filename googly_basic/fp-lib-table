@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/sao/badgelife_sao_v169bis.pretty")(options "")(descr ""))
+  (lib (name "googly_basic")(type "KiCad")(uri "/home/renze/Documents/Badge.Team/shittyaddons/googly_basic")(options "")(descr ""))
+)
